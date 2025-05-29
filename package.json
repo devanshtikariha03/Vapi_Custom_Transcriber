@@ -1,0 +1,14 @@
+{
+  "name": "vapi-custom-transcriber",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@deepgram/sdk": "^1.0.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "ws": "^8.0.0"
+  }
+}
